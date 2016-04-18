@@ -8,10 +8,10 @@ Include exercises of t3h (http://t3h.vn)
 
 ## FOLDER "t3h_courses > cert_php_01_basic" : 
 "Certification of PHP 01 : Basic" Lesson  
-	1. Technical with PHP
+> 1. Technical with PHP  
 
 ## FOLDER "t3h_courses > cert_php_02_mysql" : 
 "Certification of PHP 01 : Advanced with MySQL" Lesson 
-> 1.Connect MySQL with PDO  
+> 1.Connect to MySQL with PDO  
   2.Template Engine Smarty  
   3.MVC Structure  
