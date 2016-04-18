@@ -5,6 +5,9 @@ Submodule project inserted to this repository. Describes some info and concepts 
 
 ## FOLDER "t3h_courses" : 
 Include exercises of t3h (http://t3h.vn)  
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
 
 ## FOLDER "t3h_courses > cert_php_01_basic" : 
 "Certification of PHP 01 : Basic" Lesson  
