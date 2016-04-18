@@ -13,7 +13,6 @@ Include exercises of t3h (http://t3h.vn)
 ## FOLDER "t3h_courses > cert_php_02_mysql" : 
 "Certification of PHP 01 : Advanced with MySQL" Lesson 
 > Contents  
-  1.Connect MySQL with PDO
-  2.Template Engine Smarty
-  3.MVC Structure
-		
+  1.Connect MySQL with PDO  
+  2.Template Engine Smarty  
+  3.MVC Structure  
